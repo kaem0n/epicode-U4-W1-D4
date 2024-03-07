@@ -1,11 +1,11 @@
 package entities;
 
-public class Director extends Employee {
+public class Manager extends Employee {
     // ATTRIBUTES
     private final int workingHours;
 
     // CONSTRUCTORS
-    public Director(String name, double hourlySalary, Department department) {
+    public Manager(String name, double hourlySalary, Department department) {
         super(name, hourlySalary, department);
         this.workingHours = 6;
     }

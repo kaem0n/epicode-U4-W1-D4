@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9884978b-f49d-465b-b695-50a3bf48dd14" name="Changes" comment="project start">
+    <list default="true" id="9884978b-f49d-465b-b695-50a3bf48dd14" name="Changes" comment="project finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/CheckAtWorkplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/CheckAtWorkplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/FullTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/FullTimeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/PartTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/PartTimeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Volunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Volunteer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709814377635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project finished">
+      <option name="closed" value="true" />
+      <created>1709827173793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709827173793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project start" />
-    <option name="LAST_COMMIT_MESSAGE" value="project start" />
+    <MESSAGE value="project finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="project finished" />
   </component>
 </project>

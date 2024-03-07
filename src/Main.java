@@ -3,7 +3,7 @@ import entities.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println();
-        Director mario = new Director("Mario Rossi", 25, Department.ADMINISTRATION);
+        Manager mario = new Manager("Mario Rossi", 25, Department.ADMINISTRATION);
         FullTimeEmployee carlo = new FullTimeEmployee("Carlo Bianchi", 12, Department.ADMINISTRATION);
         FullTimeEmployee marco = new FullTimeEmployee("Marco Verdi", 10, Department.PRODUCTION);
         FullTimeEmployee giovanna = new FullTimeEmployee("Giovanna Neri", 10, Department.PRODUCTION);
